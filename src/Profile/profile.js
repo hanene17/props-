@@ -85,7 +85,8 @@ const Welcome= props => {
    //the values we want the props to have when not passed
    Welcome.defaultProps= {
     fullName: "hanen ghribi",
-    profession: "In this checkpoint we are",
+    profession: "JavaScript  HTML/ CSS  Symfony" ,
+    
     
    };
     export default Welcome; 
