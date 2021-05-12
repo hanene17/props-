@@ -3,7 +3,6 @@ import PropTypes from 'prop-types';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 
-
 const spanStyles = {
   color: "red",
   borderColor: "#00f",
@@ -37,6 +36,7 @@ const imgStyles={
     color: "white",
   fontSize: 50,
   }
+
 
 const Welcome= props => {
  
